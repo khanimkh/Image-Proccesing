@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Earth's Moon
+=======
+Earth's Moon
+>>>>>>> 2413a1a (Initial commit)
