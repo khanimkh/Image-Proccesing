@@ -26,7 +26,4 @@ This project provides a comprehensive set of exercises, code, and explanations f
 2. Open the Jupyter notebooks in the `Analyze 1D signals/`, `Analyze 2D signals/`, or `Segmentation/` folders to explore the exercises and code.
 3. Refer to the markdown summaries for step-by-step explanations and annotated code.
 
-## Usage
-
-The notebooks are organized as educational modules. Each section introduces a concept, provides code, and includes visualizations to reinforce learning. You can run and modify the code to experiment with different filters and images.
 
